@@ -1,1 +1,1 @@
-backend software engineer  
+fluency with typescript & c++ 
