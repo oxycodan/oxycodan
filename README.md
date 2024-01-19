@@ -29,11 +29,3 @@
 </div>
 
 ###
-
-<h3 align="left">Current Projects -</h3>
-
-###
-
-<p align="left">@NitrousOSINT - web based OSINT tool<br>@RoxiprinAdvantage - gaming utility software marketplace<br>@YoshiSL - multi-functionality Discord bot</p>
-
-###
